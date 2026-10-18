@@ -1,0 +1,1 @@
+# Lab2-AI_Algorithms_Mathematics
